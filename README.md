@@ -4,8 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This project is a demonstration of a simple cardboard in 3d with Fiber.js and Drei.js.
 I add the blender file in if you want to modify it directly.
-Ce projet est une démonstration de création d'un carton en 3D animé à l'aide de Fiber.js et Drei.js.
-J'ai ajouté le fichier blender si vous souhaitez le modifier directement.
 
 ![Carton 3D Animé](/public/carton.gif)
 
@@ -16,7 +14,7 @@ J'ai ajouté le fichier blender si vous souhaitez le modifier directement.
 
 ## Installation
 
-1. Clonez the repository :
+1. Clone the repository :
 
    ```bash
    git clone https://github.com/Alex080103/cartonFiberJs.git
