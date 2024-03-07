@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# Carton 3D Animé
+# 3d cardboard animated
 
 This project is a demonstration of a simple cardboard in 3d with Fiber.js and Drei.js.
 I add the blender file in if you want to modify it directly.
